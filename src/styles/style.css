@@ -40,6 +40,7 @@ h2 {
   cursor: pointer;
   font-weight: 600;
   border-radius: 10px;
+  box-shadow: 2px 2px 5px;
 }
 
 .reset:focus {
